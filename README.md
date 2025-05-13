@@ -4,7 +4,7 @@ ServerStatusLM/1.jpg
 
 ## 😁A completely free utility for monitoring the status of your VPS/VDS server on Linux using a telegram bot.
 
-# ⚡=========== How to install? [ENG] ===========
+# ⚡=== How to install? [ENG] ===
 1. First, you need to upload the bot to your server. You can do this via SSH, SMB, or by copying a file from GitHub.
 2. Now we need to download several packages, thanks to which the bot will work.
    ```sudo apt install nodejs npm```
@@ -17,7 +17,7 @@ ServerStatusLM/1.jpg
 You can set the bot to auto-start with the system so that it starts automatically with your server. I've run tests on Debian, Arch, Ubuntu, Mint, Fedora.
 The bot is completely free, you can freely modify it and distribute it, but I really ask you to keep the information about the original source, at least a link to this repository.
 
-# ⚡=========== Как установить? [RU] ===========
+# ⚡=== Как установить? [RU] ===
 1. Сначала вам нужно загрузить бота на свой сервер. Вы можете сделать это через SSH, SMB или скопировав файл с GitHub.
 2. Теперь нам нужно загрузить несколько пакетов, благодаря которым бот будет работать.
    ```sudo apt install nodejs npm```
