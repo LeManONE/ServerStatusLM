@@ -1,0 +1,14 @@
+{
+  "name": "systeminfobot",
+  "version": "1.0.0",
+  "description": "How are u?",
+  "main": "index.js",
+  "scripts": {
+    "example": "node index"
+  },
+  "author": "LeManONE",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
