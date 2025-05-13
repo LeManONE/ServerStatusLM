@@ -3,6 +3,7 @@ Monitoring your VDS/VPS server on Linux.
 ServerStatusLM/1.jpg
 
 ## 😁A completely free utility for monitoring the status of your VPS/VDS server on Linux using a telegram bot.
+[Show](1.jpg)
 
 # ⚡=== How to install? [ENG] ===
 1. First, you need to upload the bot to your server. You can do this via SSH, SMB, or by copying a file from GitHub.
