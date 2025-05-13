@@ -5,6 +5,13 @@ ServerStatusLM/1.jpg
 ## 😁A completely free utility for monitoring the status of your VPS/VDS server on Linux using a telegram bot.
 ![Show](1.jpg)
 
+Development plans:
+- CPU and GPU temperature display (if available)
+- mailing from the bot if the server has critical temperatures
+- a log for recording the temperature once in a given period of time
+- storing all settings and the bot token in a separate file
+- control of some server systems using buttons
+
 # ⚡=== How to install? [ENG] ===
 1. First, you need to upload the bot to your server. You can do this via SSH, SMB, or by copying a file from GitHub.
 2. Now we need to download several packages, thanks to which the bot will work.
