@@ -1,3 +1,5 @@
+@NAMESPACE:registry=https://npm.pkg.github.com
+
 {
   "name": "systeminfobot",
   "version": "1.0.0",
