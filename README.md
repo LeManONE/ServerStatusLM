@@ -15,7 +15,12 @@ Development plans:
 # ⚡=== How to install? [ENG] ===
 1. First, you need to upload the bot to your server. You can do this via SSH, SMB, or by copying a file from GitHub.
 2. Now we need to download several packages, thanks to which the bot will work.
-   ```sudo apt install nodejs npm```
+   ```
+   sudo apt update && sudo apt upgrade
+   ```
+   ```
+   sudo apt install nodejs npm
+   ```
    Install NodeJS and NPM. Perhaps you have another package manager other than apt, use the documentation of your Linux distribution.
 3. Now we need to create a Telegram bot and get its token. To do this, we need the bot @BotFather. I think you can create a bot yourself and take its token.
 4. Now you need to find the line "const bot = new TelegramBot('YOUR_TELGRAM_BOT_TOKEN', {polling: true });" and change "YOUR_TELGRAM_BOT_TOKEN" to your token.
@@ -28,7 +33,12 @@ The bot is completely free, you can freely modify it and distribute it, but I re
 # ⚡=== Как установить? [RU] ===
 1. Сначала вам нужно загрузить бота на свой сервер. Вы можете сделать это через SSH, SMB или скопировав файл с GitHub.
 2. Теперь нам нужно загрузить несколько пакетов, благодаря которым бот будет работать.
-   ```sudo apt install nodejs npm```
+   ```
+   sudo apt update && sudo apt upgrade
+   ```
+   ```
+   sudo apt install nodejs npm
+   ```
    Установите NodeJS и NPM. Возможно, у вас есть другой менеджер пакетов, отличный от apt, воспользуйтесь документацией вашего дистрибутива Linux.
 3. Теперь нам нужно создать Telegram-бота и получить его токен. Для этого нам понадобится бот @BotFather. Я думаю, вы можете сами создать бота и взять его токен.
 4. Теперь вам нужно найти строку "const bot = new TelegramBot('YOUR_TELGRAM_BOT_TOKEN', {опрос: true})" и изменить "YOUR_TELGRAM_BOT_TOKEN" на ваш токен.
